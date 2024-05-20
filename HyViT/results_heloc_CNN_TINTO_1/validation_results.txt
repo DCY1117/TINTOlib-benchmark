@@ -1,0 +1,5 @@
+Validation accuracy: 0.7179732322692871
+Validation AUC: 0.7861498594284058
+Validation precision: 0.7935103178024292
+Validation recall: 0.5445343852043152
+Validation loss: 0.566172182559967
