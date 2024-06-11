@@ -1,5 +1,7 @@
 # Other
 HyNNImages/
+Datasets_benchmark/HIGGS.csv
+HyViT/models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
