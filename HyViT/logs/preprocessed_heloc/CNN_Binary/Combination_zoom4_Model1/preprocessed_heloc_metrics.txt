@@ -1,0 +1,15 @@
+train_loss: 0.6927101612091064
+train_accuracy: 0.5160418748855591
+train_precision: 0.0
+train_recall: 0.0
+train_auc: 0.5
+val_loss: 0.6917489767074585
+val_accuracy: 0.5405268669128418
+val_precision: 0.0
+val_recall: 0.0
+val_auc: 0.5
+test_loss: 0.6930555105209351
+test_accuracy: 0.5124050378799438
+test_precision: 0.0
+test_recall: 0.0
+test_auc: 0.499506413936615
