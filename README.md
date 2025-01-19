@@ -31,7 +31,7 @@ Put dataset links...
 ## Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/yourusername/benchmark-tabular-images.git
+git clone https://github.com/DCY1117/TINTOlib-benchmark.git
 cd benchmark-tabular-images
 pip install -r requirements.txt
 
