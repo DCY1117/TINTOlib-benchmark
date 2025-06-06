@@ -32,7 +32,5 @@ And use convert_csi_to_csv_by_antennas.py
 ## Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/DCY1117/TINTOlib-benchmark.git
-cd benchmark-tabular-images
-pip install -r requirements.txt
+git clone https://github.com/manwestc/TINTOlib-benchmark
 
